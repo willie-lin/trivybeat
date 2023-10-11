@@ -24,18 +24,14 @@ require (
 	github.com/akavel/rsrc v0.10.2 // indirect
 	github.com/aquasecurity/fanal v0.0.0-20210501093021-8aaac3e8dea7
 	github.com/aquasecurity/trivy v0.17.2
-	github.com/aquasecurity/trivy-db v0.0.0-20210429114658-ae22941a55d0
 	github.com/dlclark/regexp2 v1.4.0 // indirect
 	github.com/docker/engine-api v0.4.0
 	github.com/dop251/goja v0.0.0-20210322220816-6fc852574a34 // indirect
 	github.com/dop251/goja_nodejs v0.0.0-20210225215109-d91c329300e7 // indirect
 	github.com/elastic/beats/v7 v7.0.0-alpha2.0.20210324124808-e2002891592e
-	github.com/fatih/color v1.10.0 // indirect
-	github.com/gin-gonic/gin v1.5.0 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
-	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/josephspurrier/goversioninfo v1.2.0 // indirect
 	github.com/magefile/mage v1.11.0
 	github.com/mitchellh/gox v1.0.1
@@ -47,15 +43,11 @@ require (
 	go.elastic.co/apm v1.11.0 // indirect
 	go.elastic.co/ecszap v1.0.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
-	go.uber.org/zap v1.16.0 // indirect
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2 // indirect
 	golang.org/x/lint v0.0.0-20201208152925-83fdc39ff7b5
-	golang.org/x/net v0.0.0-20210324051636-2c4c8ecb7826 // indirect
-	golang.org/x/sys v0.0.0-20210324051608-47abb6519492 // indirect
-	golang.org/x/tools v0.1.0
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/tools v0.6.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	google.golang.org/genproto v0.0.0-20210323160006-e668133fea6a // indirect
-	gopkg.in/yaml.v2 v2.4.0 // indirect
 	honnef.co/go/tools v0.1.3 // indirect
 	howett.net/plist v0.0.0-20201203080718-1454fab16a06 // indirect
 )
